@@ -10,6 +10,10 @@ Suricata – detecting suspicious activity (IDS)
 
 Wazuh – collecting and analyzing security alerts
 
+Wazuh Agent – collecting Suricata JSON logs from eve.json
+
+Wazuh Decoder and Rules – decoding and classifying Suricata alerts
+
 Analyst – investigating events and performing basic triage
 
 # Architecture
